@@ -1,4 +1,7 @@
 ### Hi there 👋
+<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samnishita&repo=Dynamic-NBA-Shot-Charts&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=samnishita&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnishita&theme=tokyonight" />
 
 <!--
 **samnishita/samnishita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
