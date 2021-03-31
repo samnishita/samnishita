@@ -1,9 +1,9 @@
 ## UCLA Chemical Engineering Class of 2019, Self-taught in Computer Science. 
-Check out my favorite project!
+Check out what I made!
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samnishita&repo=Custom-NBA-Shot-Chart-Generator&theme=tokyonight" />
 
-He/Him/His
+Pronouns: He/Him/His
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=samnishita&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight" />
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samnishita&theme=tokyonight" />
