@@ -1,7 +1,7 @@
 ## UCLA Chemical Engineering Class of 2019, Self-taught in Computer Science. 
 Check out what I made!
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samnishita&repo=Custom-NBA-Shot-Chart-Generator&theme=tokyonight" />
+<a href="https://github.com/samnishita/Custom-NBA-Shot-Chart-Generator"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samnishita&repo=Custom-NBA-Shot-Chart-Generator&theme=tokyonight"/></a>
 
 Pronouns: He/Him/His
 
