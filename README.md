@@ -1,7 +1,7 @@
 ## UCLA Chemical Engineering Class of 2019, Self-taught in Computer Science. 
 Check out what I made!
 
-## <a href="https://samnishita.github.io/ShotChartWeb/">NBA Shot Chart Generator (Web Version)</a>
+## <a href="https://customnbashotcharts.com/">NBA Shot Chart Generator (Web Version)</a>
 
 <a href="https://github.com/samnishita/ShotChartWeb"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=samnishita&repo=ShotChartWeb&theme=tokyonight"/></a>
 
