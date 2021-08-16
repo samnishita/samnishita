@@ -12,8 +12,6 @@ Check out what I made!
 <br>
 <br>
 
-Pronouns: He/Him/His
-
 Currently looking for jobs in California.
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/?username=samnishita&count_private=true&hide=issues,contribs&show_icons=true&theme=tokyonight" />
